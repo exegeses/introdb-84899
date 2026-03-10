@@ -11,7 +11,16 @@
 > llamada "introdb"
 > Ejemplo práctico:
 
-    CREATE DATABASE introdb;  
+    CREATE DATABASE introdb;
+
+
+> Ejemplo avanzado
+
+    CREATE DATABASE nombre   
+      CHARACTER SET utf8mb4  
+      COLLATE utf8mb4_0900_ai_ci;  
+
+
 
 # Eliminar una base de datos en SQL
 > para eliminar una base de datos utilizamos el comando **DROP DATABASE**
