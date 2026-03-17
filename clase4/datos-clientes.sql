@@ -1,0 +1,28 @@
+INSERT INTO clientes
+    (nombre, apellido, telefono, email, fechaAlta)
+VALUES
+    ('Carlos', 'Gómez', '114567890', 'carlos.gomez@example.com', '2024-01-15'),
+    ('María', 'Fernández', '114567891', 'maria.fernandez@example.com', '2024-01-16'),
+    ('Juan', 'Pérez', '114567892', 'juan.perez@example.com', '2024-01-17'),
+    ('Lucía', 'Martínez', '114567893', 'lucia.martinez@example.com', '2024-01-18'),
+    ('Pedro', 'López', '114567894', 'pedro.lopez@example.com', '2024-01-19'),
+    ('Ana', 'Rodríguez', '114567895', 'ana.rodriguez@example.com', '2024-01-20'),
+    ('Sofía', 'Hernández', '114567896', 'sofia.hernandez@example.com', '2024-01-21'),
+    ('Diego', 'Torres', '114567897', 'diego.torres@example.com', '2024-01-22'),
+    ('Valentina', 'Ramírez', '114567898', 'valentina.ramirez@example.com', '2024-01-23'),
+    ('Martín', 'Flores', '114567899', 'martin.flores@example.com', '2024-01-24'),
+    ('Camila', 'Silva', '114567900', 'camila.silva@example.com', '2024-01-25'),
+    ('Mateo', 'Castro', '114567901', 'mateo.castro@example.com', '2024-01-26'),
+    ('Julieta', 'Morales', '114567902', 'julieta.morales@example.com', '2024-01-27'),
+    ('Agustín', 'Suárez', '114567903', 'agustin.suarez@example.com', '2024-01-28'),
+    ('Florencia', 'Molina', '114567904', 'florencia.molina@example.com', '2024-01-29'),
+    ('Tomás', 'Domínguez', '114567905', 'tomas.dominguez@example.com', '2024-01-30'),
+    ('Paula', 'Vega', '114567906', 'paula.vega@example.com', '2024-01-31'),
+    ('Nicolás', 'Carrizo', '114567907', 'nicolas.carrizo@example.com', '2024-02-01'),
+    ('Carolina', 'Sosa', '114567908', 'carolina.sosa@example.com', '2024-02-02'),
+    ('Franco', 'Acosta', '114567909', 'franco.acosta@example.com', '2024-02-03'),
+    ('Milagros', 'Ponce', '114567910', 'milagros.ponce@example.com', '2024-02-04'),
+    ('Ezequiel', 'Ferreyra', '114567911', 'ezequiel.ferreyra@example.com', '2024-02-05'),
+    ('Rocío', 'Arias', '114567912', 'rocio.arias@example.com', '2024-02-06'),
+    ('Gonzalo', 'Navarro', '114567913', 'gonzalo.navarro@example.com', '2024-02-07'),
+    ('Micaela', 'Correa', '114567914', 'micaela.correa@example.com', '2024-02-08');

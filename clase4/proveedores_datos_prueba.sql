@@ -1,0 +1,35 @@
+USE introdb;
+
+INSERT INTO proveedores
+    (razonSocial, cuit, telefono, email, direccion)
+VALUES
+('Proveedor Uno S.A.', 20123456780, '1123456789', 'contacto1@proveedor.com', 'Av. Siempre Viva 123'),
+('Distribuidora Norte SRL', 20234567891, '1134567890', 'ventas@norte.com', 'Calle Falsa 456'),
+('Importadora Sur S.A.', 20345678912, '1145678901', 'info@sur.com', 'Av. Libertador 789'),
+('Comercial Este SRL', 20456789123, '1156789012', 'contacto@este.com', 'Belgrano 321'),
+('Proveedor Oeste S.A.', 20567891234, '1167890123', 'ventas@oeste.com', 'Mitre 654'),
+('Servicios Integrales SRL', 20678912345, '1178901234', 'info@servicios.com', 'San Martín 987'),
+('Tecnología Avanzada S.A.', 20789123456, '1189012345', 'tech@avanzada.com', 'Rivadavia 159'),
+('Logística Express SRL', 20891234567, '1190123456', 'logistica@express.com', 'Sarmiento 753'),
+('Soluciones Globales S.A.', 20912345678, '1101234567', 'global@soluciones.com', 'Corrientes 852'),
+('Distribuciones Unidas SRL', 20111222333, '1112345678', 'ventas@unidas.com', 'Callao 951'),
+('Proveedor Central S.A.', 20222333444, '1123456780', 'central@proveedor.com', 'Santa Fe 357'),
+('Comercializadora Delta SRL', 20333444555, '1134567891', 'delta@comercial.com', 'Florida 258'),
+('Insumos Industriales S.A.', 20444555666, '1145678902', 'insumos@industrial.com', 'Lavalle 147'),
+('Mayorista Andina SRL', 20555666777, '1156789013', 'andina@mayorista.com', 'Suipacha 369'),
+('Proveedor Patagónico S.A.', 20666777888, '1167890124', 'patagonia@proveedor.com', 'Alem 753'),
+('Distribuidora Pampeana SRL', 20777888999, '1178901235', 'pampeana@dist.com', 'Pueyrredón 951'),
+('Servicios del Litoral S.A.', 20888999000, '1189012346', 'litoral@servicios.com', 'Córdoba 852'),
+('Comercial Atlántica SRL', 20999000111, '1190123457', 'atlantica@comercial.com', 'Anchorena 753'),
+('Proveedor Federal S.A.', 20101010101, '1101234568', 'federal@proveedor.com', 'Scalabrini Ortiz 951'),
+('Distribuidora Nacional SRL', 20202020202, '1112345679', 'nacional@dist.com', 'Nazca 123'),
+('Insumos del Sur S.A.', 20303030303, '1123456790', 'sur@insumos.com', 'Triunvirato 456'),
+('Proveedor del Norte SRL', 20404040404, '1134567892', 'norte@proveedor.com', 'Cabildo 789'),
+('Servicios Urbanos S.A.', 20505050505, '1145678903', 'urbanos@servicios.com', 'Juramento 321'),
+('Comercial del Centro SRL', 20606060606, '1156789014', 'centro@comercial.com', 'Monroe 654'),
+('Distribuidora Metropolitana S.A.', 20707070707, '1167890125', 'metro@dist.com', 'Congreso 987'),
+('Proveedor Industrial SRL', 20808080808, '1178901236', 'industrial@proveedor.com', 'Balcarce 159'),
+('Soluciones Técnicas S.A.', 20909090909, '1189012347', 'tecnicas@soluciones.com', 'Defensa 753'),
+('Comercial Innovadora SRL', 20121212121, '1190123458', 'innovacion@comercial.com', 'Chile 852'),
+('Distribuidora Moderna S.A.', 20232323232, '1101234569', 'moderna@dist.com', 'México 951'),
+('Proveedor Premium SRL', 20343434343, '1112345680', 'premium@proveedor.com', 'Perú 357');
