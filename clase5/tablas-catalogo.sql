@@ -14,11 +14,11 @@ create table categorias
 create table productos
 (
     idProducto mediumint unsigned auto_increment primary key,
-    productos varchar(50) unique not null,
+    producto varchar(50) unique not null,
     precio decimal(10,2) not null,
     idMarca smallint unsigned not null,
     idCategoria smallint unsigned not null,
-    description varchar(1000) not null,
+    descripcion varchar(1000) not null,
     imagen varchar(50) not null,
     activo boolean not null,
     foreign key (idMarca) references marcas (idMarca),
